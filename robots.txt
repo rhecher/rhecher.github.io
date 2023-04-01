@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rhecher.github.io/al-folio/sitemap.xml
+Sitemap: https://rhecher.github.io/sitemap.xml
