@@ -15,8 +15,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "Dienstplan"
-    url: /dienstplan/
+  #- title: "Dienstplan"
+  #  url: /dienstplan/
     
   #- title: "Guide"
    # url: /markdown/
