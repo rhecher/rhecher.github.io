@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<a href="https://www.iatacodes.de/">Hier</a> kannst du nachschlagen, was die IATA Codes bedeuten (z.B. CDG - Paris Charle de Gaulle).
+<a href="https://www.iatacodes.de/">Hier</a> kannst du nachschlagen, was die IATA Codes bedeuten (z.B. CDG - Paris Charles de Gaulle).
 
 Und <a href="https://www.flightradar24.com/48.11,16.57/8">hier</a> kannst du mit einer Flugnummer (z.B. OS393) nachschauen, wo der Flieger gerade ist.
 
