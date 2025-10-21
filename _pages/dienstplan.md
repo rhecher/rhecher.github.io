@@ -11,5 +11,3 @@ redirect_from:
 {% include base_path %}
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FVienna&showPrint=0&showTitle=0&showCalendars=0&mode=WEEK&src=ZHBmMm1xYmt1NjcxNzI3cDFsYnRpYzc3dDl2Ym1odDhAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%238e24aa" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FVienna&showNav=1&showDate=1&mode=WEEK&title&showTitle=0&src=OGU3ZmNmMTVhNTliZjdjOGVhZDI1NjMxZGMwM2FmM2JhNGMwNzFiYjMxMzA4ZjM4MzE4NGNjNzAyMTkwN2ExNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23D50000" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
