@@ -29,7 +29,14 @@ layout: default
 
         {{ content }}
 
-        <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FVienna&showTitle=0&mode=WEEK&src=ZHBmMm1xYmt1NjcxNzI3cDFsYnRpYzc3dDl2Ym1odDhAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%238e24aa" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+        <div class="calendar-wrapper">
+            <iframe id="myCalendar" 
+                    src="https://calendar.google.com/calendar/embed?src=8e7fcf15a59bf7c8ead25631dc03af3ba4c071bb31308f383184cc7021907a14%40group.calendar.google.com&ctz=Europe%2FVienna"
+                    frameborder="0" scrolling="no">
+            </iframe>
+        </div>
+
+        
 
         <!-- Home Post List -->
         {% for post in site.posts limit : 5 %}
